@@ -1,0 +1,10 @@
+Ivanov 5000
+Petrov 10000
+Sidorov 8000
+Spiridonov 9000
+Smidt 12000
+Putin 122000
+Yakovlev 16500
+Vinogradov 19000
+Zanin 18000
+Baboshin 17000
